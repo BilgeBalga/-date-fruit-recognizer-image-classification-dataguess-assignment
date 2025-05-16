@@ -67,6 +67,10 @@ The model evaluation metrics are as follows:
 - **ROC Curves**: ROC curves and AUC values were calculated for each class  
 - **Precision-Recall Curves**: Class-wise precision-recall performance was evaluated  
 
+## Note: About the Model File
+
+The trained model file (.h5) could not be uploaded to GitHub due to size limitations. However, it can be recreated by running the code in the repository. Alternatively, you can access the trained model via the Drive link provided here: [Model](https://drive.google.com/drive/folders/1w0_1MSat9HHM80OrcV9xesapT4JuqtTN?usp=sharing)
+
 ## Industrial Application Potential
 
 This model has potential applications in industrial settings, including:
@@ -85,7 +89,3 @@ To enhance model performance and usability, the following improvements can be co
 - Extend the model to recognize more date varieties  
 - Optimize the model for low-resource devices (e.g., using TensorFlow Lite)  
 - Adapt the model to recognize dates at different ripening stages  
-
-## Note: About the Model File
-
-The trained model file (.h5) could not be uploaded to GitHub due to size limitations. However, it can be recreated by running the code in the repository. Alternatively, you can access the trained model via the Drive link provided here: [Model](https://drive.google.com/drive/folders/1w0_1MSat9HHM80OrcV9xesapT4JuqtTN?usp=sharing)
