@@ -8,7 +8,10 @@ This study aims to develop an image classification model using date fruit images
 
 ## Dataset
 
-The **Date Fruit Image Dataset in Controlled Environment** from Kaggle is used in this project. The dataset contains 9 different date varieties:
+The dataset used in this project is the **Date Fruit Image Dataset in Controlled Environment**, available on Kaggle:  
+[https://www.kaggle.com/datasets/wadhasnalhamdan/date-fruit-image-dataset-in-controlled-environment](https://www.kaggle.com/datasets/wadhasnalhamdan/date-fruit-image-dataset-in-controlled-environment)
+
+It includes images of 9 different date varieties:
 
 - Ajwa  
 - Medjool  
